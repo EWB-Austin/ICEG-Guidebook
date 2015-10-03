@@ -6,8 +6,8 @@ This is a Work In Progress Guidebook for the Instrumentation and Communications 
 
 ## Table Of Contents
 
-* Introduction
-** Motivation
+1. Introduction
+  1. Motivation
 * Principles
 ** Custom Instrumentation
 ** Social Media
